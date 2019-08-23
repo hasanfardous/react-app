@@ -1,3 +1,5 @@
+## Hola! This is my react practice project. I will commit every line of code that I learn everyday. Thanks!
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
